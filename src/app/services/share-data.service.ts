@@ -12,4 +12,9 @@ export class ShareDataService {
     key2: 'Que tal?',
     key3: 'Bien'
   }
+  myObj2:Object = {
+    key1: 'Hola',
+    key2: 'Que tal?',
+    key3: 'Bien'
+  }
 }
